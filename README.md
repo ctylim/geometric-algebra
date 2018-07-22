@@ -3,6 +3,6 @@ Code Scraps for Conformal Geometric Algebra
 
 ### Install
 
-```python
+```bash
 $ pip install -r requirements.txt
 ```
